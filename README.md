@@ -60,10 +60,10 @@ In this image I logged in as the administrator account HaleyMS. While in there I
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/bzaHdy9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/V0huXdA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Logging in as the user Jane I was automatically assigned Karens priority issue set by the configurations of the help topics. I was able to resolve Karens issue as Jane. I also logged into John's account and was able to resolve the issues that I had put in as Ken.
