@@ -30,7 +30,16 @@ https://i.imgur.com/0Xm2OFU.mp4
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/LPe1zWi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.imgur.com/23SlRr3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.imgur.com/HW4kLws.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.imgur.com/qHelekM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Shown above I logged into the Client account and was able to create 4 tickets at different levels of severity. The most important coming from Karen, with an issue with the online mobile banking application. 
@@ -41,12 +50,18 @@ Shown above I logged into the Client account and was able to create 4 tickets at
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
   
 In this image I logged in as the administrator account HaleyMS. While in there I was able to manage the ticket SLA, assign tickets to other agents, and resolve tickets as well.
 
 </p>
 <br />
 
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
