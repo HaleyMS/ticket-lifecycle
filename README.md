@@ -54,7 +54,7 @@ Shown above I logged into the Client account and was able to create 4 tickets at
 <img src="https://i.imgur.com/GXK94XQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
   
-In this image I logged in as the administrator account HaleyMS. While in there I was able to manage the ticket SLA, assign tickets to other agents, and resolve tickets as well.
+In this image I logged in as the administrator account HaleyMS. While in there I was able to manage the ticket SLA, assign tickets to other agents, and triage tickets as well.
 
 </p>
 <br />
