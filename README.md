@@ -54,7 +54,7 @@ Shown above I logged into the Client account and was able to create 4 tickets at
 <img src="https://i.imgur.com/GXK94XQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
   
-In this image I logged in as the administrator account HaleyMS. While in there I was able to manage the ticket SLA, assign tickets to other agents, and triage tickets as well.
+In this image I logged in as the administrator account HaleyMS. While under the admin account, I was able to manage the ticket SLA, assign tickets to other agents, and triage tickets.
 
 </p>
 <br />
@@ -66,6 +66,6 @@ In this image I logged in as the administrator account HaleyMS. While in there I
 <img src="https://i.imgur.com/V0huXdA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Logging in as the user Jane I was automatically assigned Karens priority issue set by the configurations of the help topics. I was able to resolve Karens issue as Jane. I also logged into John's account and was able to resolve the issues that I had put in as Ken.
+Logging in as the user Jane I was automatically assigned Karen's priority issue set by the configurations of the help topics. I was able to resolve Karen's issue as Jane. I also logged into John's account and was able to resolve the issues that I had put in as Ken.
 </p>
 <br />
